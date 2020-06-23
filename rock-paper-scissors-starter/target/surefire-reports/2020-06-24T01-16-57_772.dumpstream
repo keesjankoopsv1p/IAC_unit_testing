@@ -1,0 +1,4 @@
+# Created at 2020-06-24T01:16:58.366
+Boot Manifest-JAR contains absolute paths in classpath 'D:\IAC\Unit_testen\rock-paper-scissors-starter\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

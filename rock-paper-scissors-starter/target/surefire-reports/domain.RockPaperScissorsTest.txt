@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: domain.RockPaperScissorsTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.094 s <<< FAILURE! - in domain.RockPaperScissorsTest
+domain.RockPaperScissorsTest.verifyMovesAndResults(Move,Move,Result)  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <LOSE> but was: <WIN>
+	at domain.RockPaperScissorsTest.verifyMovesAndResults(RockPaperScissorsTest.java:35)
+

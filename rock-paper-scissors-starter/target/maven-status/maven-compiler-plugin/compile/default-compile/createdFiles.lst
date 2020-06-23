@@ -1,0 +1,6 @@
+domain\Move.class
+domain\Result.class
+domain\rules\RockPaperScissors$1.class
+domain\rules\RockPaperScissors.class
+domain\Player.class
+domain\Rules.class
